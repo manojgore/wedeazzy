@@ -146,120 +146,148 @@
     },
     "001a76ef7957aee9047131dfa4b8074b2b2e5213": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "21ab3686b899c0507ffcf8ac83456e2ead3f2977": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "2802ddc3f93262898a39d0223cad61b4440db2cd": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "301de4f95f6dcb24203a4df3e52e9191b2bf9491": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "36927f4bae9d231eda08ec886bd4765a68124729": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "47e17579ab69453e5086b5b76edccccb8ba59958": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "658cfa54549da0dcd0562881f37d502b4b8c2e3c": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "67eeb08b084e598a8eba0aa8338d86bef00134b0": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "8b3f8c2a12ccc20005d3d17b19a235808057bc01": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "935f3dfea82a5144bbbab77624a57fb81d835257": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "aaa9815ab54b0236d258f593f30b302d821d1a8b": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "e09a3775fd2ea22b9521f3cc7d36217228134f25": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "f31a32c3010c55bc441546d4f8b6dca36549309f": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "fd85c4e65343d7dc6254b924c89fe12bf5e94dd1": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "600301415d732279239748ac08bd69b6482fdef3": {
       "workers": {
         "app/login-vendor/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cbusiness.js%22%2C%5B%22businessLogin%22%2C%22businessSignup%22%5D%5D%5D&__client_imported__=true!",
-        "app/register-vendor/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cbusiness.js%22%2C%5B%22businessLogin%22%2C%22businessSignup%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%5D&__client_imported__=true!"
+        "app/register-vendor/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cbusiness.js%22%2C%5B%22businessLogin%22%2C%22businessSignup%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
         "app/login-vendor/page": "action-browser",
@@ -269,7 +297,7 @@
     "821baabd2b0d22f1c8f679d8df2cb1fee6265ad6": {
       "workers": {
         "app/login-vendor/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cbusiness.js%22%2C%5B%22businessLogin%22%2C%22businessSignup%22%5D%5D%5D&__client_imported__=true!",
-        "app/register-vendor/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cbusiness.js%22%2C%5B%22businessLogin%22%2C%22businessSignup%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%5D&__client_imported__=true!"
+        "app/register-vendor/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cbusiness.js%22%2C%5B%22businessLogin%22%2C%22businessSignup%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
         "app/login-vendor/page": "action-browser",
@@ -278,26 +306,32 @@
     },
     "45d0884ff7f604783d1bcdf0b63527ce40b2e523": {
       "workers": {
-        "app/register-vendor/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cbusiness.js%22%2C%5B%22businessLogin%22%2C%22businessSignup%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%5D&__client_imported__=true!"
+        "app/register-vendor/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cbusiness.js%22%2C%5B%22businessLogin%22%2C%22businessSignup%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/register-vendor/page": "action-browser"
+        "app/register-vendor/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "733d1bd498a2f2225bb8d32daea4e3a8c4d5f0da": {
       "workers": {
-        "app/register-vendor/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cbusiness.js%22%2C%5B%22businessLogin%22%2C%22businessSignup%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%5D&__client_imported__=true!"
+        "app/register-vendor/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cbusiness.js%22%2C%5B%22businessLogin%22%2C%22businessSignup%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/register-vendor/page": "action-browser"
+        "app/register-vendor/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "b93360d290b53dcbb2c9e0d20570cbab407a71e9": {
       "workers": {
-        "app/register-vendor/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cbusiness.js%22%2C%5B%22businessLogin%22%2C%22businessSignup%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%5D&__client_imported__=true!"
+        "app/register-vendor/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cbusiness.js%22%2C%5B%22businessLogin%22%2C%22businessSignup%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cuser.js%22%2C%5B%22userEdit%22%2C%22getAllFavouriteVendor%22%2C%22validateUser%22%2C%22addToFavouriteVendor%22%2C%22getAllFavouriteService%22%2C%22userPassChange%22%2C%22getUsersCount%22%2C%22addToFavouriteService%22%2C%22getAllFavouriteVenue%22%2C%22userDeleteAdmin%22%2C%22addToFavouriteVenue%22%2C%22userLogout%22%2C%22userSignup%22%2C%22userLogin%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Cmail.js%22%2C%5B%22sendEmailVerificationOtp%22%2C%22sendContactusEmail%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CHP%5C%5CDocuments%5C%5Cwedeazzy%5C%5Csrc%5C%5Cactions%5C%5Csms.js%22%2C%5B%22sendMobileVerificationOtp%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/register-vendor/page": "action-browser"
+        "app/register-vendor/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     }
   },
