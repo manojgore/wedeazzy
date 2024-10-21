@@ -36,11 +36,7 @@ const UserDashboard = () => {
   return (
     <>
       <HeaderOne />
-      <Breadcrumb
-        img="/images/breadcrumb/1920x320.png"
-        heading="User Dashboard"
-        subHeading="Reach Out to GlampHub. Your Gateway to Outdoor Luxury."
-      />
+      
       <div className="contact-us lg:pt-20 md:pt-14 pt-10">
         <div className="container">
           <div className="flex justify-evenly max-lg:flex-col">
